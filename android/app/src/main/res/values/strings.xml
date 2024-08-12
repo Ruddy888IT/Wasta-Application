@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<string name="app_name">Bazw</string>
+<string name="facebook_app_id">919953459159624</string>
+<string name="fb_login_protocol_scheme">fb919953459159624</string>
+<string name="facebook_client_token">2097e0acdb1df16bcbc09ab6335ab07b</string>
+</resources>
+

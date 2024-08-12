@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591732752633",
+    "project_id": "rsh-study",
+    "storage_bucket": "rsh-study.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591732752633:android:b3a35fb5547975c00fa228",
+        "android_client_info": {
+          "package_name": "com.example.twezhinawa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591732752633-8c6hs9nr09sjfauvneqor4vj8tckjtnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE_P1jxLbHQ6nyt4jy4QVSgJ-Wf0IB4ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591732752633-8c6hs9nr09sjfauvneqor4vj8tckjtnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
